@@ -1,2 +1,2 @@
 # Getting-Started-GL
-"I created a repository."
+I created a repository.
